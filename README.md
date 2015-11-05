@@ -1,3 +1,3 @@
 # Sphax-patches
-Mine patches til Sphax
-Hent Sphax her http://bdcraft.net/purebdcraft-minecraft
+Patches for PureBDCraft
+Get it here http://bdcraft.net/purebdcraft-minecraft
